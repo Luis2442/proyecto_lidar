@@ -1,0 +1,12 @@
+{
+    "name": "practica",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_LAPTOP-ONGE7OHD.json",
+            "credentialsFile": "flows_LAPTOP-ONGE7OHD_cred.json"
+        }
+    }
+}
